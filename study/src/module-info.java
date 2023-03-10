@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rooet
+ *
+ */
+module study {
+}
